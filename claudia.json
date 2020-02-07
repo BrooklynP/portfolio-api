@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "portfolio-api-executor",
+    "name": "portfolio-api",
+    "region": "eu-west-2"
+  },
+  "api": {
+    "id": "fi6n3dfpr9",
+    "module": "server"
+  }
+}
