@@ -10,7 +10,7 @@
         "claudia-api-builder": "^4.1.2",
         "cors": "^2.8.5",
         "express": "^4.17.1",
-        "nodemailer": "^6.4.2"
+        "nodemailer": "^6.4.16"
     },
     "files": [
         "secret.js",
